@@ -215,8 +215,8 @@ def print_policy(policy):
     policy_grid = np.array(
         [action_symbols[action] for action in policy]
     ).reshape(4, 4)
-    print("Name: NITHYA D")
-    print("Register Number: 212223240110")
+    print("Name: KEERTHIKA M P")
+    print("Register Number: 212223240071")
     print("\nLearned Policy:")
     print(policy_grid)
 
